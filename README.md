@@ -28,7 +28,7 @@ console.log(decoded);
 Can also be used with [browserify] or [webpack] by doing `npm install jwt-decode` and requiring:
 
 ~~~javascript
-var jwtDecode = require('jwt-decode');
+var jwt_decode = require('jwt-decode');
 ~~~
 
 ## Polymer Web Component
